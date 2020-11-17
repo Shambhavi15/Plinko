@@ -41,7 +41,7 @@ function setup() {
 }
 
 function draw() {
-  background(239,135,149);
+  background(246,232,0);
 
   ground.bottom.display();
   ground.right.display();
